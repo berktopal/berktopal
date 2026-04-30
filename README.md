@@ -10,7 +10,7 @@ Software Engineering student with hands-on experience in full-stack web developm
 
 * **Languages:** JavaScript, Python, Java, C#
 * **Frontend:** React, HTML, CSS, Tailwind
-* **Backend:** .NET, Node.js (Express.js), Spring Boot
+* **Backend:** .NET, Node.js, Express.js, Spring Boot
 * **Databases:** PostgreSQL, MongoDB, MySQL
 * **Tools & Methodologies:** Git, Postman, Axios, Agile, Scrum
 
