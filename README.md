@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer
 
-Software Engineering student with hands-on experience in full-stack web development through internships and personal projects. Skilled in developing scalable software solutions and designing robust architectures across diverse tech stacks. Motivated to learn and continuously improve, actively using AI-assisted tools to enhance development skills and problem-solving abilities.
+Software Engineer with hands-on experience in full-stack software development, specializing in building scalable applications with modern ecosystems like Java, Spring Boot, React, and Node.js. Skilled in designing robust backend architectures, integrating secure RESTful APIs, and managing seamless data workflows.
 
 ---
 
