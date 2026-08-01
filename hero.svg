@@ -148,7 +148,7 @@
     </g>
 
     <g transform="translate(0, 340)">
-      <text x="0" y="-20" font-family="sans-serif" font-weight="bold" font-size="20" fill="#F8FAFC">Tech Stack</text>
+      <text x="0" y="-15" font-family="sans-serif" font-weight="bold" font-size="20" fill="#F8FAFC">Tech Stack</text>
       
       <!-- 1. Satır -->
       <g transform="translate(0, 0)">
