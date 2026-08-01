@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="hero.svg?v=9" alt="Berk Topal GitHub Hero Banner" width="100%" />
+  <img src="hero.svg?v=12" alt="Berk Topal GitHub Hero Banner" width="100%" />
 </p>
