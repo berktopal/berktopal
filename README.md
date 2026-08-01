@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/berktopal/berktopal/main/hero.svg" alt="Berk Topal GitHub Hero Banner" width="100%" />
+  <img src="hero.svg?v=3" alt="Berk Topal GitHub Hero Banner" width="100%" />
 </p>
