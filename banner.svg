@@ -98,7 +98,7 @@
         <text x="0" y="341" text-anchor="middle" xml:space="preserve">              :+==++*?#??#?***??###?*+++=+-             </text>
         <text x="0" y="352" text-anchor="middle" xml:space="preserve">            ::======++*#&amp;&amp;&amp;&amp;@&amp;&amp;&amp;&amp;%?+++===+=-:          .</text>
         <text x="0" y="363" text-anchor="middle" xml:space="preserve">        .-+?*++======+++*??????**++++====++*#?+-.     ..</text>
-        <text x="0" y="374" text-anchor="middle" xml:space="preserve">    .-+?&amp@@@*=+========++++++++++++======+++?@@@%*=:.   </text>
+        <text x="0" y="374" text-anchor="middle" xml:space="preserve">    .-+?&amp;@@@*=+========++++++++++++======+++?@@@%*=:.   </text>
         <text x="0" y="385" text-anchor="middle" xml:space="preserve">.-*#&amp;@@@@@@@%+===-----======++===========+++&amp;@@@@@@&amp;%?=:</text>
         <text x="0" y="396" text-anchor="middle" xml:space="preserve">%@@@@@&amp;&amp;@&amp;&amp;&amp;@%+==--------=========---=====*&amp;@@@&amp;@@@&amp;@@@&amp;</text>
         <text x="0" y="407" text-anchor="middle" xml:space="preserve">@@@@@@&amp;&amp;@&amp;&amp;&amp;@&amp;?=---------======----==--=?&amp;@@@@@@@@&amp;@@@@</text>
@@ -114,7 +114,7 @@
     <rect x="35" y="480" width="10" height="15" fill="#22D3EE">
       <animate attributeName="opacity" values="1; 0; 1" dur="1s" repeatCount="indefinite" />
     </rect>
-    <text x="55" y="492" font-family="monospace" font-size="14" fill="#94A3B8">> System.out.println("Ready to build.");</text>
+    <text x="55" y="492" font-family="monospace" font-size="14" fill="#94A3B8">&gt; System.out.println("Ready to build.");</text>
   </g>
 
   <!-- Right Side: Info -->
