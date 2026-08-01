@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="hero.svg" alt="Berk Topal Hero Banner" width="100%">
+</p>
+
+<p align="center">
+  <b>Software Engineer | Full-Stack Developer</b>
+</p>
+
+<br>
+
 # Berk Topal
 
 ### Software Engineer | Full-Stack Developer
