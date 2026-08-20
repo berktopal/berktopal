@@ -132,7 +132,7 @@
 
     <g transform="translate(0, 140)" font-family="sans-serif" font-size="16">
       <text x="0" y="0" fill="#94A3B8" font-weight="600">Location:</text>
-      <text x="150" y="0" fill="#F8FAFC">İstanbul, Türkiye</text>
+      <text x="150" y="0" fill="#F8FAFC">Istanbul, Turkey</text>
       
       <text x="0" y="35" fill="#94A3B8" font-weight="600">Education:</text>
       <text x="150" y="35" fill="#F8FAFC">Bahçeşehir University (Software Engineering)</text>
